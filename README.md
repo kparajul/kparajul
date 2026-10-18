@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritika</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **parallelism**
+- 🌱 I’m currently pursuing a graduate degree from UH Manoa and haven't been active in programming :)
 
 <h3 align="left">Connect with me on LinkedIn at:</h3>
 <p align="left"> https://www.linkedin.com/in/kritika-parajuli/
